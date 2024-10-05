@@ -1,7 +1,7 @@
 ---
 title: Untitled
 # subtitle: 
-author: Jhon Doe
+author: yamanori99
 date: today
 bibliography: bibliography.bib
 csl: csl/apa.csl
