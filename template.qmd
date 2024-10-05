@@ -1,0 +1,10 @@
+---
+title: Untitled
+# subtitle: 
+author: Jhon Doe
+date: today
+bibliography: bibliography.bib
+csl: csl/apa.csl
+link-citations: true
+editor: visual
+---
