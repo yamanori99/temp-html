@@ -1,6 +1,6 @@
 # temp-html-qmd
 
-This is a template equipped with the basic elements for creating Quarto documents. By default, it outputs in HTML format. You can export bibliography information in compliance with APA 7th edition
+This is a template equipped with the basic elements for creating Quarto documents. By default, it outputs in HTML format. You can export bibliography information in compliance with APA 7th edition.
 
 -   [English README](README.en.md)
 
