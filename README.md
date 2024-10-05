@@ -34,3 +34,8 @@ Quartoのガイドやオプションの手引も参考にしてください。
 -   <https://quarto.org/docs/guide/>
 
 -   <https://quarto.org/docs/reference/>\
+
+参考文献情報の書き方については、以下のKosugi先生のサイトを参考にして下さい。
+
+-  <https://qiita.com/kosugitti/items/63140ead7942d4e9b1d7>
+
