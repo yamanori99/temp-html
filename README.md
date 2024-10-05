@@ -15,7 +15,7 @@ quarto use template yamanori99/temp-html-qmd
 ## 参考にしたもの
 
 Kunisato先生のテンプレートや以下のQuarto資料を参考にしています。\
-テンプレートについては、心理学関連するものは:
+テンプレートについては、心理学に関連するものは:
 
 -   <https://github.com/ykunisato/jjp>
 
