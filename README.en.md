@@ -1,7 +1,5 @@
 # Basic Template for HTML Output
 
-Start Creating Quarto Documents in 0 Seconds (Opinions may vary).
-
 This is a template equipped with the basic elements for creating Quarto documents. By default, it outputs in HTML format. You can export bibliography information in compliance with APA 7th edition; however, support for Japanese references is suboptimal. The template is designed with the idea of recreating the document creation experience similar to Notion.
 
 You can edit the commented-out sections in `_quarto.yml` to render in other formats (though adjustments might not work perfectly). For PDF output, please refer to the following page (<https://www.jaysong.net/RBook/quarto2.html>).
