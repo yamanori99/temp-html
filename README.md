@@ -9,3 +9,9 @@ Quarto文書作りの基本的要素を備えたテンプレートです。デ�
 This is a template equipped with the basic elements for creating Quarto documents. By default, it outputs in HTML format. You can export bibliography information in compliance with APA 7th edition.
 
 -   [English README](README.en.md)
+
+以下のコマンドで利用できます。/ The following commands are available.
+
+``` zsh
+quarto use template yamanori99/temp-html-qmd
+```
