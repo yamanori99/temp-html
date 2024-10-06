@@ -10,7 +10,7 @@ This is a template equipped with the basic elements for creating Quarto document
 
 -   [English README](README.en.md)
 
-以下のコマンドで利用できます。/ The following commands are available.
+以下のコマンドで利用できます。/ You can use this template with the following commands.
 
 ``` zsh
 quarto use template yamanori99/temp-html-qmd
