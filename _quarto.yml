@@ -1,6 +1,7 @@
 # 使わないものもコメントアウトして残している。
 project:
   type: default  # または website, book, manuscript
+  output-dir: _output  # ファイルの出力先
 # チャンクオプション
 knitr: 
   opts_chunk: 
